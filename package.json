@@ -1,0 +1,23 @@
+{
+  "name": "vulnerablesite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseMiguez98/phishing-class-vulnerableSite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoseMiguez98/phishing-class-vulnerableSite/issues"
+  },
+  "homepage": "https://github.com/JoseMiguez98/phishing-class-vulnerableSite#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
